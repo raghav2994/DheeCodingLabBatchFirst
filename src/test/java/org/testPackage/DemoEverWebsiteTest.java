@@ -17,6 +17,9 @@ public class DemoEverWebsiteTest {
 
     WebDriver driver;
 
+    /*
+    Sample java doc
+     */
     @BeforeMethod
     public void setUp() throws Exception {
         ChromeOptions options = new ChromeOptions(); // =-> What kind of browser we want to use
